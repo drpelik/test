@@ -3,11 +3,11 @@ test website using apps
 
 ====================
 
-Comment {>> <<}
+Comment {>> Comment <<}
 
 Lorem ipsum dolor sit amet.{>>This is a comment<<}
 
-Highlight+Comment {== ==}{>> <<}
+Highlight+Comment {== ==}{>> Comment <<}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. {==Vestibulum at orci magna. Phasellus augue justo, sodales eu pulvinar ac, vulputate eget nulla.==}{>>confusing<<} Mauris massa sem, tempor sed cursus et, semper tincidunt lacus.
 
