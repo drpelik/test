@@ -1,7 +1,19 @@
 # test
 test website using apps
+
+====================
+
+Comment {>> <<}
+
+Lorem ipsum dolor sit amet.{>>This is a comment<<}
+
+Highlight+Comment {== ==}{>> <<}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. {==Vestibulum at orci magna. Phasellus augue justo, sodales eu pulvinar ac, vulputate eget nulla.==}{>>confusing<<} Mauris massa sem, tempor sed cursus et, semper tincidunt lacus.
+
+
 [//]: # (This may be the most platform independent comment)
-[//]: # dantnguyen.github.io
+[//]: # (dantnguyen.github.io)
 ====================
 
 ## Hello world!
