@@ -3,10 +3,8 @@
 [//]: # (This may be the most platform independent comment)
 [//]: # (dantnguyen.github.io)
 <!---
-your comment goes here
-and here
+your comment goes here and here
 -->
-[//]: <> (This is also a comment.)
 ====================
 
 ## Hello world!
