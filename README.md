@@ -1,7 +1,7 @@
 # test
 test website using apps
-
-#dantnguyen.github.io
+[//]: # (This may be the most platform independent comment)
+[//]: # dantnguyen.github.io
 ====================
 
 ## Hello world!
