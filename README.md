@@ -14,8 +14,8 @@ My Github user page is at:
 https://github.com/drpelikz/
 
 My Github Pages repo can be found at:  
-https://github.com/dantnguyen/drpelikz.github.io/
+https://github.com/drpelikz.github.io/
 
 And, soon, you can see my customized homepage at:
 
-http://drpelikz.github.io/
+https://drpelikz.github.io/
